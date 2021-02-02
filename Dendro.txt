@@ -1,0 +1,6 @@
+type effect;
+code LOGd;
+compatibility v1.0.7;
+bus 2 2;
+manufacturer Alex Luchsinger;
+image Dendro.png;
